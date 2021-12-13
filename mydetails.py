@@ -1,0 +1,5 @@
+gmu = "your email id"
+gmp = "your email id password"
+pb = "your pushbullet api key"
+owm = "your openweathermap api key"
+nak = "your newsapi.org api key"
