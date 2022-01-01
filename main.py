@@ -1,6 +1,6 @@
 import os
 os.system("start python Jarvis.pyw")
-os.system("title J.A.R.V.I.S. (Formerly ChronosAI)")
+os.system("title J.A.R.V.I.S.")
 os.system("cls")
 os.system("color 0b")
 def imprint(txt):
